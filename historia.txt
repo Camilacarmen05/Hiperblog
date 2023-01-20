@@ -3,3 +3,5 @@ en visula studio code que trabajo
 
 ahora estamos realizando un nuevo cambio 
 ahora estamos trabajando con git reset 
+
+luego vamos a trabajar con el comando checkout. 
